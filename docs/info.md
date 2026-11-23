@@ -11,7 +11,7 @@ You can also include images in this folder and reference them in the markdown. E
 Escribe un numero binario de 4 entradas, tenemos una salida a 7 segmentos
 
 ## How to test
-Activando cada entrada con números binarios (0 y 1) y revisar con la tabla de verdad si salen en el display los numeros segun las entradas activadas.
+Activando cada entrada con numeros binarios (0 y 1) y revisar con la tabla de verdad si salen en el display los numeros segun las entradas activadas.
 
 ## External hardware
 Display 7 segmentos conectado a pines de salida.
